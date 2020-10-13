@@ -1,0 +1,9 @@
+Added Component: Designator=P1(SAFT_LS14250_3.6V)
+Added Component: Designator=P2(SAFT_LS14250_3.6V)
+Added Pin To Net: NetName=3.3 V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=3.3 V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=padometer Member=Component P1 SAFT_LS14250_3.6V
+Added Member To Class: ClassName=padometer Member=Component P2 SAFT_LS14250_3.6V
+Added Room: Name=padometer

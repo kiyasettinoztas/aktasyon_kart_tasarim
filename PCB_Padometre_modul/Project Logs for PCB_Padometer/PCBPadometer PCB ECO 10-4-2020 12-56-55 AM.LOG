@@ -1,0 +1,169 @@
+Added Component: Designator=B1(PUSB BUTTON-SMD)
+Add component (AddParameter): Name = "Satýn Alma Linki"; Value = "https://urun.n11.com/diger/mini-pushbutton-switch-smd-P227461537?gclid=Cj0KCQjwkoDmBRCcARIsAG3xzl8Y_-jeD7HocNM6lvuZ_rVp83568XPGtNzlPwXWLph8oCRqo0yh87UaApZYEALw_wcB&gclsrc=aw.ds"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C1206- TANTAL)
+Added Component: Designator=C3(C1206- TANTAL)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C7(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=C15(C1206)
+Added Component: Designator=C16(C1206)
+Added Component: Designator=C17(C1206)
+Added Component: Designator=C18(C1206)
+Added Component: Designator=J1(Header 2.54 1x5)
+Added Component: Designator=J2(Header 2.54 1x4)
+Added Component: Designator=J4(Header 2.54 1x4)
+Added Component: Designator=J5(Klemens 1x2 - 3.5mm)
+Added Component: Designator=J6(Klemens 1x2 - 3.5mm)
+Added Component: Designator=R1(R1206 Resýstor)
+Added Component: Designator=R2(R1206 Resýstor)
+Added Component: Designator=R3(R1206 Resýstor)
+Added Component: Designator=R4(R1206 Resýstor)
+Added Component: Designator=R5(R1206 Resýstor)
+Added Component: Designator=U1(DPAK228P972X230-3N)
+Added Component: Designator=U2(DPAK228P972X230-3N)
+Added Component: Designator=U3(LQFP48-STM)
+Added Component: Designator=U4(QFN50P400X400X90_HS-25N)
+Added Component: Designator=Y1(8 MHZ Osc.)
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NRST Pin=B1-3
+Added Pin To Net: NetName=NRST Pin=B1-4
+Added Pin To Net: NetName=7.4 V Pin=C2-1
+Added Pin To Net: NetName=7.4 V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3.3 V Pin=C3-1
+Added Pin To Net: NetName=3.3 V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=7.4 V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=5 V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3.3 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3.3 V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3.3 V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3.3 V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3.3 V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3.3 V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=3.3 V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NRST Pin=C18-2
+Added Pin To Net: NetName=3.3 V Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=3.3 V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=5 V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=7.4 V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=5 V Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=3.3 V Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=3.3 V Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=3.3 V Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NRST Pin=R5-1
+Added Pin To Net: NetName=3.3 V Pin=R5-2
+Added Pin To Net: NetName=7.4 V Pin=U1-2
+Added Pin To Net: NetName=3.3 V Pin=U1-3
+Added Pin To Net: NetName=7.4 V Pin=U2-1
+Added Pin To Net: NetName=5 V Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=3.3 V Pin=U3-1
+Added Pin To Net: NetName=NetC16_2 Pin=U3-5
+Added Pin To Net: NetName=NetC14_2 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=3.3 V Pin=U3-9
+Added Pin To Net: NetName=NetJ4_3 Pin=U3-12
+Added Pin To Net: NetName=NetJ4_4 Pin=U3-13
+Added Pin To Net: NetName=NetR4_2 Pin=U3-20
+Added Pin To Net: NetName=NetR3_2 Pin=U3-21
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=3.3 V Pin=U3-24
+Added Pin To Net: NetName=NetJ2_3 Pin=U3-30
+Added Pin To Net: NetName=NetJ2_4 Pin=U3-31
+Added Pin To Net: NetName=NetJ1_4 Pin=U3-34
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=3.3 V Pin=U3-36
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-37
+Added Pin To Net: NetName=NetR2_1 Pin=U3-44
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=3.3 V Pin=U3-48
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=3.3 V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=NetC17_2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=3.3 V Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=NetC15_1 Pin=U4-20
+Added Pin To Net: NetName=NetR4_2 Pin=U4-23
+Added Pin To Net: NetName=NetR3_2 Pin=U4-24
+Added Pin To Net: NetName=NetC14_2 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC16_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=padometer Member=Component B1 Push Button
+Added Member To Class: ClassName=padometer Member=Component C2 10 uF - Tantal
+Added Member To Class: ClassName=padometer Member=Component C3 10 uF - Tantal
+Added Member To Class: ClassName=padometer Member=Component C4 330 nF C1206
+Added Member To Class: ClassName=padometer Member=Component C5 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C7 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C8 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C9 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C10 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C11 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C12 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C13 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C14 16 pF
+Added Member To Class: ClassName=padometer Member=Component C15 2.2 nF c1206
+Added Member To Class: ClassName=padometer Member=Component C16 16 pF
+Added Member To Class: ClassName=padometer Member=Component C17 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C18 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component J1 Header 2.54 1x5
+Added Member To Class: ClassName=padometer Member=Component J2 Header 2.54 1x4
+Added Member To Class: ClassName=padometer Member=Component J4 Header 2.54 1x4
+Added Member To Class: ClassName=padometer Member=Component J5 Klemens 1x2 3.5mm
+Added Member To Class: ClassName=padometer Member=Component J6 Klemens 1x2 3.5mm
+Added Member To Class: ClassName=padometer Member=Component R1 10K R1206
+Added Member To Class: ClassName=padometer Member=Component R2 10K R1206
+Added Member To Class: ClassName=padometer Member=Component R3 10K R1206
+Added Member To Class: ClassName=padometer Member=Component R4 10K R1206
+Added Member To Class: ClassName=padometer Member=Component R5 10K R1206
+Added Member To Class: ClassName=padometer Member=Component U1 LD108633 DPAK
+Added Member To Class: ClassName=padometer Member=Component U2 L7805-DPAK
+Added Member To Class: ClassName=padometer Member=Component U3 STM32F101_1
+Added Member To Class: ClassName=padometer Member=Component U4 MPU6050_1
+Added Member To Class: ClassName=padometer Member=Component Y1 8 MHz 12.5 pf Osc
+Added Room: Name=padometer

@@ -1,0 +1,100 @@
+Added Component: Designator=C7(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=C16(C1206)
+Added Component: Designator=J1(Header 2.54 1x5)
+Added Component: Designator=P1(SAFT_LS14250_3.6V)
+Added Component: Designator=P2(SAFT_LS14250_3.6V)
+Added Component: Designator=R1(R1206 Resýstor)
+Added Component: Designator=R2(R1206 Resýstor)
+Added Component: Designator=U1(DRF1278F)
+Added Component: Designator=U2(LQFP48-STM)
+Added Component: Designator=U3(MPU6050MODUL)
+Added Component: Designator=Y1(8 MHZ Osc.)
+Added Pin To Net: NetName=3.3 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3.3 V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3.3 V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3.3 V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3.3 V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=3.3 V Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=3.3 V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=3.3 V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=3.3 V Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=3.3 V Pin=U2-1
+Added Pin To Net: NetName=NetC16_2 Pin=U2-5
+Added Pin To Net: NetName=NetC14_2 Pin=U2-6
+Added Pin To Net: NetName=NetJ1_5 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=3.3 V Pin=U2-9
+Added Pin To Net: NetName=NetU2_21 Pin=U2-21
+Added Pin To Net: NetName=NetU2_22 Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=3.3 V Pin=U2-24
+Added Pin To Net: NetName=NetU1_1 Pin=U2-25
+Added Pin To Net: NetName=NetU2_26 Pin=U2-26
+Added Pin To Net: NetName=NetU1_8 Pin=U2-27
+Added Pin To Net: NetName=NetJ1_4 Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=3.3 V Pin=U2-36
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-37
+Added Pin To Net: NetName=NetU1_13 Pin=U2-38
+Added Pin To Net: NetName=NetU1_10 Pin=U2-39
+Added Pin To Net: NetName=NetU1_11 Pin=U2-40
+Added Pin To Net: NetName=NetU1_12 Pin=U2-41
+Added Pin To Net: NetName=NetU1_2 Pin=U2-42
+Added Pin To Net: NetName=NetR2_1 Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3.3 V Pin=U2-48
+Added Pin To Net: NetName=NetU2_26 Pin=U3-1
+Added Pin To Net: NetName=NetU2_21 Pin=U3-3
+Added Pin To Net: NetName=NetU2_22 Pin=U3-4
+Added Pin To Net: NetName=NetC14_2 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC16_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=padometer Member=Component C7 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C8 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C9 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C10 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C11 0.1 uF C1206
+Added Member To Class: ClassName=padometer Member=Component C14 16 pF
+Added Member To Class: ClassName=padometer Member=Component C16 16 pF
+Added Member To Class: ClassName=padometer Member=Component J1 Header 2.54 1x5
+Added Member To Class: ClassName=padometer Member=Component P1 SAFT_LS14250_3.6V
+Added Member To Class: ClassName=padometer Member=Component P2 SAFT_LS14250_3.6V
+Added Member To Class: ClassName=padometer Member=Component R1 10K R1206
+Added Member To Class: ClassName=padometer Member=Component R2 10K R1206
+Added Member To Class: ClassName=padometer Member=Component U1 DRF1278F
+Added Member To Class: ClassName=padometer Member=Component U2 STM32F101_1
+Added Member To Class: ClassName=padometer Member=Component U3 mpu6050modul
+Added Member To Class: ClassName=padometer Member=Component Y1 8 MHz 12.5 pf Osc

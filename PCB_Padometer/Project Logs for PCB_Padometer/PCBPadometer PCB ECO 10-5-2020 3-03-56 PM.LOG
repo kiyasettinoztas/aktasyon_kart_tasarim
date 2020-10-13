@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=7.4 V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=7.4 V Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Member From Class: ClassName=padometer Member=C4
+Removed Member From Class: ClassName=padometer Member=C5
+Removed Member From Class: ClassName=padometer Member=U2
+Added Room: Name=padometer

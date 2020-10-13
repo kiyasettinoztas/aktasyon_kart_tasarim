@@ -1,0 +1,2 @@
+Remove Pin=J1-5 From Net=NRST
+Remove Pin=U3-7 From Net=NRST

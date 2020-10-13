@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=NRST Pin=B1-3
+Removed Pin From Net: NetName=NRST Pin=B1-4
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=NRST Pin=C18-2
+Removed Pin From Net: NetName=NRST Pin=R5-1
+Removed Pin From Net: NetName=3.3 V Pin=R5-2
+Removed Member From Class: ClassName=padometer Member=B1
+Removed Member From Class: ClassName=padometer Member=C18
+Removed Member From Class: ClassName=padometer Member=R5
+Added Room: Name=padometer

@@ -1,0 +1,6 @@
+Added Component: Designator=U3(MPU6050MODUL)
+Added Pin To Net: NetName=NetU2_26 Pin=U3-1
+Added Pin To Net: NetName=NetU2_21 Pin=U3-3
+Added Pin To Net: NetName=NetU2_22 Pin=U3-4
+Added Member To Class: ClassName=padometer Member=Component U3 mpu6050modul
+Added Room: Name=padometer

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.3 V Pin=U4-25
+Added Pin To Net: NetName=NRST Pin=J1-5
+Added Room: Name=padometer

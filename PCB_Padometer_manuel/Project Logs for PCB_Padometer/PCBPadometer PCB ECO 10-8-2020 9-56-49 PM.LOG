@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U4-25
+Added Member To Class: ClassName=padometer Member=Component U5 DRF1278F
+Added Room: Name=padometer

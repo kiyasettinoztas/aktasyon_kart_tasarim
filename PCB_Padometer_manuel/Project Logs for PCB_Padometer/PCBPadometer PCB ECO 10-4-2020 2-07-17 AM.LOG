@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3.3 V Pin=U4-25
+Added Component: Designator=J5(Klemens 1x2 - 3.5mm)
+Added Component: Designator=J6(Klemens 1x2 - 3.5mm)
+Added Pin To Net: NetName=7.4 V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=5 V Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Member To Class: ClassName=padometer Member=Component J5 Klemens 1x2 3.5mm
+Added Member To Class: ClassName=padometer Member=Component J6 Klemens 1x2 3.5mm
+Added Room: Name=padometer

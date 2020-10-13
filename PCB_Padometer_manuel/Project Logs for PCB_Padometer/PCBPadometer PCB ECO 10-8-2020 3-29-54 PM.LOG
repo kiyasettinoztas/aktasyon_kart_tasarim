@@ -1,0 +1,13 @@
+Added Component: Designator=U4(QFN50P400X400X90_HS-25N)
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=NetC12_1 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=NetC17_2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=NetC12_1 Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=NetC15_1 Pin=U4-20
+Added Pin To Net: NetName=NetR4_2 Pin=U4-23
+Added Pin To Net: NetName=NetR3_2 Pin=U4-24
+Added Member To Class: ClassName=padometer Member=Component U4 MPU6050_1
+Added Room: Name=padometer
